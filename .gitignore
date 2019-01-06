@@ -1,4 +1,5 @@
-#
+# darn you apple
+.DS_Store#
 
 # don't need data files
 *.csv
